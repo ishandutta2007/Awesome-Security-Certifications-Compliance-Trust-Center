@@ -10,16 +10,8 @@
 ## 📋 Table of Contents
 
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [SafeBase](#safebase)
-  - [Vanta Trust Center](#vanta-trust-center)
-  - [Drata Trust Center](#drata-trust-center)
-  - [OneTrust Trust Center](#onetrust-trust-center)
-  - [Whistic Trust Center](#whistic-trust-center)
-  - [Panorays Trust Center](#panorays-trust-center)
-  - [TrustArc Trust Center](#trustarc-trust-center)
-  - [Druva Trust Center](#druva-trust-center)
-  - [Tugboat Logic Trust Center (OneTrust)](#tugboat-logic-trust-center-onetrust)
-  - [Secureframe Trust Center](#secureframe-trust-center)
+  - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+  - [Comparison of SaaS Platforms](#comparison-of-saas-platforms)
 - [Open-Source Software](#-open-source-software)
   - [Kodus Trust Center](#kodus-trust-center)
 - [Comparison at a Glance](#-comparison-at-a-glance)
@@ -29,57 +21,25 @@
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Security Certifications and Compliance Trust Center platforms. These are not open-source but are included as reference points for feature comparison.
+Commercial, cloud-hosted Security Certifications and Compliance Trust Center platforms.
 
-### SafeBase
-**Type:** Trust center platform with multi-product consolidation and AI questionnaire
-SafeBase is a leading commercial trust center platform, now featuring a **Multi-Product Trust Center** (closed alpha) that consolidates security, privacy, and compliance information for multiple products onto a single page [citation:2]. Visitors can filter content by product using product pills, while identical content across products is automatically de-duplicated and rendered once with product tags [citation:2]. Compliance badges are shown as a de-duplicated list across all products, and compliance items are consolidated only if auditor, expiration date, and linked documents match [citation:2]. SafeBase remains the underlying engine for Drata's Trust Center for customers on the "New Drata experience."
-**Best for:** Organizations with multiple products needing a consolidated trust center with intelligent content de-duplication and product-level filtering.
+### Sector Overview & Market Dynamics
+The Compliance Automation and Trust Center software market is estimated at approximately **$35B to $39B** (expanding toward $75B+ by the 2030s at a ~14% CAGR) as continuous audit reporting and customer-facing security portals become mandatory deal accelerators in B2B sales. The sector is **moderately fragmented but consolidating rapidly**, where a handful of venture-backed category leaders (e.g., OneTrust, Vanta, Drata) aggressively acquire niche point solutions (such as SafeBase and Tugboat Logic) to build end-to-end "Trust Management" ecosystems.
 
-### Vanta Trust Center
-**Type:** Trust center within compliance automation suite
-Vanta's Trust Center helps organizations showcase compliance posture, reduce questionnaire fatigue, and accelerate sales. Key features include **compliance badges** for frameworks like SOC 2, ISO 27001, and GDPR; **NDA workflows** supporting both Clickwrap (lightweight checkbox) and DocuSign (formal e-signature); **access approvals** routing requests to internal approvers; and **CTM Tagging** (Custom Trust Metadata) for categorizing content by product, region, or audience [citation:5]. A **Revenue Influenced Report** tracks how the Trust Center accelerated or supported sales opportunities, demonstrating ROI [citation:5]. Branding is fully customizable with logos, fonts, colors, and custom domains [citation:5].
-**Best for:** Vanta compliance customers wanting a well-integrated trust center with strong NDA workflows and revenue attribution reporting.
+### Comparison of SaaS Platforms
 
-### Drata Trust Center
-**Type:** Trust center powered by SafeBase with AI questionnaire assistance
-Drata bundles its Trust Center through the SafeBase acquisition, providing a self-serve security hub for buyers with instant access to compliance documents and certifications [citation:6]. CrowdStrike processed nearly **7,000 access requests across 4,400 unique customer accounts** since mid-2025, with CRM integration automating nearly 90% of incoming requests, and **97% of customers** reporting the Trust Center answered most or all of their questions [citation:6]. The platform includes **AI Questionnaire Assistance** that drafts source-cited answers from approved Trust content and routes them to SMEs for review [citation:6].
-**Best for:** Organizations wanting a unified GRC and Trust Center platform with proven enterprise adoption and AI-assisted questionnaire workflows.
-
-### OneTrust Trust Center
-**Type:** Privacy and compliance trust center within OneTrust suite
-OneTrust's Trust Center provides access to certifications, audit reports, security documentation, privacy materials, Responsible AI resources, and system status in one place [citation:3]. It covers **ISO certifications** (information security, privacy, cloud security, quality), **SOC 2 Type II** audit reports, industry certifications (payment, healthcare, automotive), and trust/assurance certifications (public sector, regional, self-assessment, sustainability) [citation:3]. Security documentation includes penetration test reports, while privacy materials cover data transfers and contractual documentation. A dedicated **Responsible AI** section explains governance, ethical principles, and transparency practices [citation:3].
-**Best for:** Organizations already in the OneTrust ecosystem wanting a comprehensive trust center covering privacy, security, and responsible AI in one portal.
-
-### Whistic Trust Center
-**Type:** Vendor assessment and trust sharing platform
-Whistic's Trust Center consolidates standard questionnaires, audits, and certifications in one place, saving InfoSec teams hours previously spent answering questionnaires [citation:14]. The **August 2025 release** added a comprehensive analytics dashboard showing profile views, content engagement, visitor behavior, and key performance metrics, plus **questionnaire view tracking** (logged-in and anonymous viewers) [citation:4]. Questionnaires can be filtered by completed, in-progress, pending requests, and updated versions [citation:4]. Sharing options include publishing to the **Trust Center Exchange** (visible to Whistic customers) or direct share links, with a limit of three shares per month on free accounts [citation:14].
-**Best for:** Organizations wanting a trust center integrated with vendor assessment workflows, particularly those already using Whistic for questionnaire management.
-
-### Panorays Trust Center
-**Type:** Trust center with pre-filled public information
-Panorays Trust Center lets organizations share a ready-made security profile with potential customers, pre-filling publicly available information to save time [citation:8]. Features include inviting collaborators, adding NDAs, Salesforce integration, and creating **multiple Trust Centers for different use cases** [citation:8]. Sharing options include private links (email-specific or company-wide with optional expiration and NDA) and public links for websites. Engagement tracking shows date shared, NDA status, and last viewed date [citation:8].
-**Best for:** Organizations already using Panorays for third-party risk management wanting a connected trust center with multiple sharing configurations.
-
-### TrustArc Trust Center
-**Type:** Privacy-focused trust center with no-code customization
-TrustArc's Trust Center centralizes policies, disclosures, and trust-building information in a customizable no-code hub [citation:9]. Features include easy logo/color upload for branding, templates purpose-built for legal/security/compliance/availability information, draft/publish/preview updates, subprocessor disclosure templates, document visibility toggles (internal vs. external), certification badge display, email subscriptions for updates, version history control, and linking of privacy requests (consents, preferences, data subject forms) in one place [citation:9].
-**Best for:** Organizations prioritizing privacy compliance wanting a trust center that integrates with consent and data subject request workflows.
-
-### Druva Trust Center
-**Type:** Data protection vendor trust center
-Druva's Trust Center (security.druva.com) provides self-service access to its certifications and compliance attestations [citation:12]. Druva is certified or compliant with **SOC 2 Type II, HIPAA, CSA Level 1 and 2, ISO 27001:2022, FIPS 140-2 (GovCloud), FedRAMP Moderate ATO (GovCloud), Dubai Electronic Security Control (DESC), and Australian Government IRAP (Public Cloud)** [citation:12]. The trust center serves as the self-service portal for accessing these certifications, reflecting Druva's approach of achieving attestations for its cloud service rather than relying solely on CSP certifications [citation:12].
-**Best for:** Druva customers and prospects needing direct access to Druva's security certifications and compliance documentation.
-
-### Tugboat Logic Trust Center (OneTrust)
-**Type:** AI-powered questionnaire automation with trust portal
-Tugboat Logic (acquired by OneTrust) combines a customer-facing trust portal with AI-powered security questionnaire automation [citation:7]. The platform builds a knowledge base from previous questionnaire responses, policies, and compliance documentation, then uses AI to suggest answers for new questionnaires, reducing response time from days to hours [citation:7]. Each completed questionnaire improves the system's understanding, making future responses faster and more consistent. Pricing starts around **$8,000/year** [citation:7]. **Consideration:** OneTrust acquisition uncertainty creates questions about the long-term standalone product roadmap, and market visibility has decreased since the acquisition [citation:7].
-**Best for:** Organizations wanting AI-powered questionnaire automation with a learning knowledge base, particularly those already in the OneTrust ecosystem.
-
-### Secureframe Trust Center
-**Type:** Compliance automation trust center
-Secureframe's Fundamentals plan ($7,500/year) includes a Trust Center alongside evidence collection, policy management, and continuous control monitoring [citation:10]. The Complete tier adds advanced Trust Center features (custom domains, automated NDA workflow), advanced questionnaire automation (15,000 questions/year), and SSO/SCIM [citation:10]. Secureframe offers 300+ native integrations and a Comply AI layer for policies and remediation. Certifications supported include SOC 2 Type II, ISO 27001, HIPAA, PCI DSS, GDPR, NIST 800-53, NIST 800-171, CMMC, NIST CSF, ISO 42001, and FedRAMP [citation:10].
-**Best for:** Mid-market organizations wanting a comprehensive compliance platform with a Trust Center included from the entry tier and broad certification support.
+| Platform | Company Scale (Valuation / Revenue) | Starting Pricing (Paid Tier) | Free Tier Limits / Free Trial | Key Capabilities & Highlights |
+|---|---|---|---|---|
+| **OneTrust Trust Center** | Valuation: ~$5.0B / ARR: ~$500M+ | ~$10,000 / year (modular baseline) | No permanent free tier; time-limited sales sandbox / trial by request only | Comprehensive privacy, security & Responsible AI portal; broad ISO/SOC/industry certifications. |
+| **Vanta Trust Center** | Valuation: ~$4.2B / ARR: ~$250M+ | ~$7,500 / year (Essentials tier) | No permanent free tier; guided evaluation / demo only (no open self-serve trial) | Full compliance automation suite, Clickwrap/DocuSign NDA workflows, CTM tagging, revenue attribution reporting. |
+| **Drata Trust Center** | Valuation: ~$2.0B+ / Total Funding: ~$320M+ | ~$7,500 / year (Startup / Foundation tier) | No permanent free tier; guided sandbox / trial through partner/sales demo only | SafeBase-powered Trust Center, automated CRM access requests, AI questionnaire assistance (AIQA). |
+| **Druva Trust Center** | Valuation: ~$2.0B / ARR: ~$200M+ | ~$35 to $75 / user / year (or consumption-based credits) | 30-day full-featured free trial (live onboarding checklist, cloud workload testing) | Dedicated customer security & compliance portal (security.druva.com) covering SOC 2, FedRAMP, ISO 27001, GovCloud attestations. |
+| **SafeBase** | Valuation: $250M (Acquired by Drata) | ~$5,000 / year (Starter / Foundation paid plans) | Free Foundation plan: 1 trust center profile, capped document/Q&A items (~15 items), limited monthly request credits | Multi-product trust center consolidation, product pill filtering, intelligent badge de-duplication, AI questionnaire automation. |
+| **TrustArc Trust Center** | Private Equity majority (Main Capital) / Funding: ~$109M | ~$8,000 / year (Baseline consent/compliance module) | 30-day time-bound evaluation trial (sales-provisioned pilot; no permanent free plan) | No-code trust center hub, privacy & subprocessor disclosures, consent/DSR workflow integration, version history tracking. |
+| **Secureframe Trust Center** | Valuation: ~$250M–$500M / Peak ARR: ~$20M+ | $7,500 / year (Fundamentals tier) | No permanent free tier; sales-guided demo / pilot evaluation only (no open trial) | Trust Center included from entry tier, automated NDA workflows, custom domains, Comply AI, 300+ native integrations. |
+| **Panorays Trust Center** | Total Funding: ~$62M / Est. ARR: ~$13M | ~$12,000 / year (Median contract ~$21,700/yr; modular tiering) | Permanent Free Starter Plan: 1 company profile, attack surface check, limited to evaluating up to 5 vendors | Third-party risk management integration, pre-filled public security profile, multiple trust centers per use case, NDA access controls. |
+| **Whistic Trust Center** | Total Funding: ~$71M / Est. ARR: ~$11.5M | ~$10,000 / year (Core AI / Standard tier) | Free Basic Profile: 1 user seat, 1 profile published to Whistic Trust Catalog, capped at 3 proactive shares total | Vendor assessment & trust sharing, Whistic Trust Catalog publishing, questionnaire view analytics, profile engagement tracking. |
+| **Tugboat Logic Trust Center** | Acquired by OneTrust (~$10M–$20M ARR segment) | ~$8,000 / year (Starter compliance tier) | No permanent free tier; customized guided sales demo only (no open self-serve trial) | AI-powered questionnaire automation with iterative learning knowledge base, coupled with customer-facing trust portal. |
 
 ---
 
