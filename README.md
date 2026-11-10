@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Security-Certifications-Compliance-Trust-Center/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Security-Certifications-Compliance-Trust-Center?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Security-Certifications-Compliance-Trust-Center/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Security-Certifications-Compliance-Trust-Center?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Security-Certifications-Compliance-Trust-Center/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Security-Certifications-Compliance-Trust-Center?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Security-Certifications-Compliance-Trust-Center/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0 1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -76,49 +76,49 @@ Commercial, cloud-hosted Security Certifications, Compliance Automation, and Tru
 
 Self-hosted, community-driven Security Certifications, Compliance Automation, GRC, and Trust Center software. Repositories are sorted in **descending order by GitHub stargazers**.
 
-### 1. [CISO Assistant Community](https://github.com/intuitem/ciso-assistant-community) [![GitHub stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers)
+### 1. [CISO Assistant Community](https://github.com/intuitem/ciso-assistant-community) [![GitHub_Stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers)
 * **Repository:** [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community)
 * **Tech Stack:** Python / Django / React / Docker | **License:** AGPL-3.0
 * **Overview:** A leading open-source GRC platform and compliance audit portal supporting over 200+ regulatory frameworks out of the box (including ISO 27001, SOC 2, NIST CSF, PCI DSS, GDPR, NIS2, and DORA). Provides cross-framework automated control mapping, vendor risk management (TPRM), continuous audit management, and interactive compliance dashboards.
 * **Best for:** Security teams looking for an all-in-one open-source GRC system with extensive pre-mapped framework catalogs and self-hosted audit capabilities.
 
-### 2. [Comp](https://github.com/trycompai/comp) [![GitHub stars](https://img.shields.io/github/stars/trycompai/comp?style=social&color=white)](https://github.com/trycompai/comp/stargazers)
+### 2. [Comp](https://github.com/trycompai/comp) [![GitHub_Stars](https://img.shields.io/github/stars/trycompai/comp?style=social&color=white)](https://github.com/trycompai/comp/stargazers)
 * **Repository:** [trycompai/comp](https://github.com/trycompai/comp)
 * **Tech Stack:** TypeScript / Next.js / Python | **License:** Open Source
 * **Overview:** An AI-native, developer-first compliance automation platform designed as an open-source alternative to Vanta and Drata. Automatically collects infrastructure evidence from cloud providers (AWS, GCP, GitHub), validates security controls against SOC 2 and ISO 27001, and helps engineering teams maintain continuous compliance without manual spreadsheet tracking.
 * **Best for:** Fast-moving engineering and security startups desiring an open-source, automated SOC 2/ISO compliance engine with native cloud integrations.
 
-### 3. [Comply](https://github.com/strongdm/comply) [![GitHub stars](https://img.shields.io/github/stars/strongdm/comply?style=social&color=white)](https://github.com/strongdm/comply/stargazers)
+### 3. [Comply](https://github.com/strongdm/comply) [![GitHub_Stars](https://img.shields.io/github/stars/strongdm/comply?style=social&color=white)](https://github.com/strongdm/comply/stargazers)
 * **Repository:** [strongdm/comply](https://github.com/strongdm/comply)
 * **Tech Stack:** Go / CLI / Markdown | **License:** Apache-2.0
 * **Overview:** StrongDM's compliance automation framework focused on SOC 2 compliance as code. Allows security teams to author and version-control company policies, automatically verify procedure enforcement through Git ticketing systems (Jira, GitHub Issues), and generate audit-ready documentation and checklists directly from version control.
 * **Best for:** Developers and DevOps practitioners who prefer managing compliance policies and auditor evidence using Git-driven markdown workflows.
 
-### 4. [Probo](https://github.com/getprobo/probo) [![GitHub stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers)
+### 4. [Probo](https://github.com/getprobo/probo) [![GitHub_Stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers)
 * **Repository:** [getprobo/probo](https://github.com/getprobo/probo)
 * **Tech Stack:** Go / PostgreSQL / GraphQL / MCP | **License:** ISC
 * **Overview:** A modern, agent-ready open-source compliance suite supporting SOC 2, ISO 27001, and GDPR. Probo features public compliance trust pages, automated access reviews, vendor risk management, and first-class Model Context Protocol (MCP) tool support that enables AI agents (such as Claude Code or Cursor) to execute compliance audits directly.
 * **Best for:** Modern teams seeking an extensible compliance platform featuring public trust pages, API/GraphQL control, and native AI agent tooling.
 
-### 5. [Gapps](https://github.com/bmarsh9/gapps) [![GitHub stars](https://img.shields.io/github/stars/bmarsh9/gapps?style=social&color=white)](https://github.com/bmarsh9/gapps/stargazers)
+### 5. [Gapps](https://github.com/bmarsh9/gapps) [![GitHub_Stars](https://img.shields.io/github/stars/bmarsh9/gapps?style=social&color=white)](https://github.com/bmarsh9/gapps/stargazers)
 * **Repository:** [bmarsh9/gapps](https://github.com/bmarsh9/gapps)
 * **Tech Stack:** Python / Django / SQLite | **License:** GPL-3.0
 * **Overview:** A lightweight, self-hosted security compliance tracking portal designed for multiple cybersecurity standards including SOC 2, CMMC, ASVS, ISO 27001, HIPAA, NIST CSF, NIST 800-53, CIS Controls, and PCI DSS. Offers centralized control status tracking and auditor assessment records.
 * **Best for:** Small to mid-sized compliance teams needing a streamlined portal to cross-track control implementations across multiple federal and commercial standards.
 
-### 6. [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) [![GitHub stars](https://img.shields.io/github/stars/opencontrol/compliance-masonry?style=social&color=white)](https://github.com/opencontrol/compliance-masonry/stargazers)
+### 6. [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) [![GitHub_Stars](https://img.shields.io/github/stars/opencontrol/compliance-masonry?style=social&color=white)](https://github.com/opencontrol/compliance-masonry/stargazers)
 * **Repository:** [opencontrol/compliance-masonry](https://github.com/opencontrol/compliance-masonry)
 * **Tech Stack:** Go / CLI / YAML | **License:** Apache-2.0
 * **Overview:** An open-source command-line tool implementing the OpenControl schema. Enables organizations to manage security documentation, system security plans (SSPs), and compliance certifications as structured code. Automates the compilation of YAML-based security specifications into certification-ready audit packages for NIST 800-53 and FedRAMP.
 * **Best for:** Regulated cloud engineering teams who need to generate reproducible System Security Plans (SSPs) and documentation as code.
 
-### 7. [OpenGRC](https://github.com/LeeMangold/OpenGRC) [![GitHub stars](https://img.shields.io/github/stars/LeeMangold/OpenGRC?style=social&color=white)](https://github.com/LeeMangold/OpenGRC/stargazers)
+### 7. [OpenGRC](https://github.com/LeeMangold/OpenGRC) [![GitHub_Stars](https://img.shields.io/github/stars/LeeMangold/OpenGRC?style=social&color=white)](https://github.com/LeeMangold/OpenGRC/stargazers)
 * **Repository:** [LeeMangold/OpenGRC](https://github.com/LeeMangold/OpenGRC)
 * **Tech Stack:** PHP / Laravel / Filament | **License:** MIT
 * **Overview:** A modern, self-hosted Governance, Risk, and Compliance web application designed for fast deployment. Provides a clean admin dashboard to track company assets, risks, compliance controls, vendor risks, and internal audit reviews without complex enterprise configuration.
 * **Best for:** Small businesses and security consultants seeking a simple, self-hosted web UI for audit and risk tracking without licensing fees.
 
-### 8. [Kodus Trust Center](https://github.com/kodustech/trust-center) [![GitHub stars](https://img.shields.io/github/stars/kodustech/trust-center?style=social&color=white)](https://github.com/kodustech/trust-center/stargazers)
+### 8. [Kodus Trust Center](https://github.com/kodustech/trust-center) [![GitHub_Stars](https://img.shields.io/github/stars/kodustech/trust-center?style=social&color=white)](https://github.com/kodustech/trust-center/stargazers)
 * **Repository:** [kodustech/trust-center](https://github.com/kodustech/trust-center)
 * **Tech Stack:** Next.js / TypeScript / Supabase | **License:** Open Source
 * **Overview:** A free, self-hosted, YAML-driven trust center builder that allows companies to expose a public security portal instantly. Features include dark/light theming, compliance badges (SOC 2, ISO, HIPAA), gated document request modals stored in Supabase, an admin YAML editor with GitHub SSO, and zero vendor lock-in.
@@ -153,7 +153,7 @@ Contributions are warmly welcomed! To suggest a new security certifications, com
 
 1. Fork this repository 🍴
 2. Create a new branch: `git checkout -b feature/add-new-tool`
-3. Add your tool with project name, repository link, tech stack, license, star count, and a 2–3 sentence overview
+3. Add your tool with project name, repository link, tech stack, license, Stars_Count, and a 2–3 sentence overview
 4. Submit a Pull Request with a clear description 🚀
 
 ---
